@@ -1,108 +1,174 @@
-<h1 align="center">Hi 👋, I'm Ganesh</h1>
+<h1 align="center">Hi 👋, I'm Ganesh Sargar</h1> <h3 align="center">📊 Aspiring Data Analyst | Turning Data into Insights</h3> <p align="center"> <i>Transforming raw data into meaningful insights and smarter decisions.</i> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Ganes-Sargar/Ganes-Sargar/main/profile.png" width="300"/> </p> <p align="center"> <b>SQL • Excel • Power BI • Python • PostgreSQL • AWS • Azure</b> </p> <p align="center"> <a href="https://www.linkedin.com/in/ganesh-sargar-319386298"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:sargarganesh800@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Ganes-Sargar"> <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ganes-Sargar&label=Profile%20Views&color=0e75b6&style=flat-square"/> </p>
+👨‍💻 About Me
 
-<h3 align="center">📊 Aspiring Data Analyst | Turning Data into Insights</h3>
+I'm an Aspiring Data Analyst passionate about transforming raw data into meaningful insights and actionable business decisions.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganes-Sargar/Ganes-Sargar/main/profile.png" width="320"/>
-</p>
+I enjoy working with data to identify trends, discover patterns, solve business problems, and communicate insights through clear visualizations and dashboards.
 
-<p align="center">
-  <b>SQL • Excel • Power BI • Python • Cloud (AWS & Azure)</b>
-</p>
+🎯 What I Do
+📊 Data Analysis & Exploratory Data Analysis
+🧹 Data Cleaning & Preprocessing
+🗄️ SQL-based Data Analysis
+📈 Power BI Dashboard Development
+📑 Excel Data Analysis & Reporting
+🐍 Python Data Analysis & Visualization
+💡 Business Insight Generation
+🌱 Currently Learning
+☁️ Amazon Web Services (AWS)
+☁️ Microsoft Azure
+🗄️ Advanced SQL
+📊 Advanced Power BI & DAX
+🐍 Python for Data Analytics
+⚙️ Data Engineering Fundamentals
+🛠️ Tech Stack
+📊 Data Analytics & Business Intelligence
+<p align="left"> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/> </p>
+🐍 Python & Data Science
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/> </p>
+🗄️ Database
+<p align="left"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+☁️ Cloud Technologies
+<p align="left"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> </p>
+🔧 Tools & Version Control
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p>
+🚀 Featured Projects
+📊 Sales Data Analysis Dashboard
 
-<p align="center">
-  <a href="your-linkedin-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Excel • Power BI
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ganes-Sargar&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+A business-focused sales analytics project designed to transform raw sales data into meaningful business insights.
 
----
+🔍 Key Highlights
+📊 Cleaned and prepared sales datasets
+📈 Created interactive Power BI dashboards
+💰 Analyzed sales and revenue performance
+🏆 Identified top-performing products and categories
+📅 Analyzed sales trends over time
+🌍 Compared performance across regions
+💡 Generated actionable business insights
 
-## 🚀 About Me
+Skills: Excel Power BI Data Cleaning Data Visualization Business Analysis
 
-🎯 I am a passionate **Data Analyst in progress**, focused on extracting meaningful insights from data  
+🗄️ SQL Data Analysis — PostgreSQL
 
-📊 I specialize in:
-- Data Cleaning & Preprocessing  
-- Data Visualization & Dashboarding  
-- SQL-based Data Analysis  
+PostgreSQL • SQL
 
-🧠 Tools I use:
-- SQL, Excel, Power BI, Python  
+A SQL-based analytics project focused on extracting meaningful insights from structured datasets.
 
-☁️ Currently exploring:
-- Cloud platforms (AWS & Azure)
+🔍 Key Highlights
+🔗 Used INNER JOIN and LEFT JOIN
+📊 Applied GROUP BY and aggregate functions
+🔎 Used filtering and sorting techniques
+🧠 Created subqueries for advanced analysis
+📈 Analyzed business performance metrics
+👥 Performed customer and product analysis
+💡 Solved real-world business questions using SQL
 
-💡 I enjoy solving real-world problems using data-driven approaches  
+Skills: SQL PostgreSQL Joins Aggregations Subqueries
 
----
+🐍 Python Data Analysis
 
-## 🛠️ Tech Stack
+Python • Pandas • NumPy • Matplotlib
 
-<p align="center">
+An exploratory data analysis project focused on cleaning, analyzing, and visualizing real-world datasets.
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+🔍 Key Highlights
+🧹 Cleaned and prepared raw datasets
+🔍 Performed Exploratory Data Analysis
+🐼 Used Pandas for data manipulation
+🔢 Used NumPy for numerical analysis
+📊 Created visualizations using Matplotlib
+📈 Identified trends and patterns
+💡 Extracted meaningful insights
 
-</p>
+Skills: Python Pandas NumPy Matplotlib EDA
 
----
+📚 Data Analytics Workflow
+                 RAW DATA
+                    │
+                    ▼
+             🧹 DATA CLEANING
+                    │
+                    ▼
+          🔍 EXPLORATORY ANALYSIS
+                    │
+                    ▼
+            🗄️ SQL / PYTHON
+                    │
+                    ▼
+          📊 DATA VISUALIZATION
+                    │
+                    ▼
+            💡 BUSINESS INSIGHTS
+                    │
+                    ▼
+          🎯 DATA-DRIVEN DECISIONS
 
-## 🚀 Featured Projects
 
-🔹 **📊 Sales Data Analysis Dashboard**  
-✔ Built using Excel & Power BI  
-✔ Created interactive dashboards for business insights  
-✔ Identified trends and performance metrics  
+Good analytics isn't just about finding numbers — it's about understanding what those numbers mean.
 
----
+🌱 Currently Learning
+🗄️ Advanced SQL
+Joins
+Subqueries
+CTEs
+Window Functions
+Aggregate Functions
+Business Problem Solving
+📊 Power BI
+Data Modeling
+DAX
+Interactive Dashboards
+KPIs
+Business Intelligence
+🐍 Python
+Pandas
+NumPy
+Data Cleaning
+Exploratory Data Analysis
+Data Visualization
+☁️ Cloud
+AWS
+Microsoft Azure
+Cloud Fundamentals
+Data Engineering Concepts
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ganes-Sargar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganes-Sargar&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Ganes-Sargar&theme=tokyonight&hide_border=true"/> </p>
+🎯 Career Goal
 
-🔹 **🗄️ SQL Data Analysis (PostgreSQL)**  
-✔ Wrote complex queries using joins & aggregations  
-✔ Extracted meaningful insights from structured data  
+My goal is to become a Data Analyst who can bridge the gap between data and business decisions.
 
----
+I aim to combine:
 
-🔹 **🐍 Python Data Analysis**  
-✔ Data cleaning & preprocessing using Pandas  
-✔ Data visualization using Matplotlib  
+Technical Skills + Analytical Thinking + Business Understanding + Data Visualization
 
----
+to solve meaningful real-world problems and deliver actionable insights.
 
-## 📊 GitHub Stats
+I'm continuously building projects, improving my analytical skills, and learning new technologies to grow as a data professional.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganes-Sargar&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+💡 My Approach to Data
+Ask the right question
+          ↓
+Find the right data
+          ↓
+Clean & prepare the data
+          ↓
+Analyze the data
+          ↓
+Visualize the findings
+          ↓
+Communicate the insights
+          ↓
+Support better decisions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganes-Sargar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+🤝 Let's Connect
 
----
+I'm always interested in:
 
-## 📫 Connect With Me
-
-📧 Email: sargarganesh800@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/ganesh-sargar-319386298  
-
----
-
-<p align="center">
-  ⭐ <b>"Without data, you're just another person with an opinion."</b>
-</p> this is our github home page profile i  want to make this proper and proffetion and creative and attractive looks 
+🤝 Collaborating on Data Analytics projects
+📊 Working with interesting datasets
+💡 Discussing data-driven solutions
+🚀 Learning new technologies
+🌱 Connecting with other data professionals
+<p align="center"> <a href="https://www.linkedin.com/in/ganesh-sargar-319386298"> <img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Sargar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:sargarganesh800@gmail.com"> <img src="https://img.shields.io/badge/Email-sargarganesh800%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <b>⭐ Thanks for visiting my GitHub profile!</b> </p> <p align="center"> <i>Turning data into insights, one project at a time. 📊</i> </p> <p align="center"> <b>Let's Analyze. Let's Learn. Let's Grow. 🚀</b> </p>
