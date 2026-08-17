@@ -198,22 +198,15 @@ An exploratory data analysis project focused on cleaning, analyzing, and visuali
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ganes-Sargar&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=F2C811&icon_color=0A66C2" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganes-Sargar&theme=dark&hide_border=true&background=0d1117&ring=F2C811&fire=0A66C2&currStreakLabel=F2C811" height="175"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ganes-Sargar&theme=tokyonight&hide_border=true&ring=22D3EE&fire=EC4899&currStreakLabel=FACC15&sideLabels=A5B4FC&dates=C9D1D9" height="180"/>
 </p>
+
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganes-Sargar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=F2C811" height="175"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganes-Sargar&theme=react-dark&hide_border=true&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FACC15"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganes-Sargar&theme=react-dark&hide_border=true&bg_color=0d1117&color=F2C811&line=0A66C2&point=ffffff"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F2C811&height=150&section=footer"/>
-
-<div align="center">
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:22D3EE,35:3B82F6,70:8B5CF6,100:EC4899"/>
 ### 📊 Open to Data Analyst opportunities — let's connect and build something data-driven.
 
 <a href="https://www.linkedin.com/in/ganesh-sargar-319386298">
